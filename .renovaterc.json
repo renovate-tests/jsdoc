@@ -6,7 +6,5 @@
     "ignoreDeps": [
         "taffydb"
     ],
-    "automerge": true,
-    "automergeType": "branch",
     "rangeStrategy": "bump"
 }
